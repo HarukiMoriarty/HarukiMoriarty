@@ -1,6 +1,7 @@
 # Hello, I'm Zhenghong Yu! 👋
-Undergraduate student @Shanghaitech University  
-Visiting International Program student @UW-Madison
+Undergraduate student @ Shanghaitech University  
+Visiting International Program student @ UW-Madison
+Incoming Ph.D. Student @ UW-Madison
 
 ## GitHub Stats
 
