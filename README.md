@@ -1,7 +1,7 @@
 # Hello, I'm Nemo Yu! 👋
-B.E. | Computer Science | Shanghaitech University  
-Undergraduate Visiting International Program | Computer Science | UW-Madison  
-Ph.D. Student | Computer Science | UW-Madison
+B.E.           | Computer Science | Shanghaitech University  
+VISP           | Computer Science | UW-Madison  
+Ph.D. Student  | Computer Science | UW-Madison
 
 ## GitHub Stats
 
