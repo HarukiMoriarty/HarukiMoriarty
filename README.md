@@ -1,11 +1,5 @@
 # 👋 Hello, I'm **Nemo Yu**
 
-**Ph.D. Student** | Computer Science | University of Wisconsin-Madison    
-**Visiting International Student**  | Computer Science | University of Wisconsin-Madison   
-**B.E.**          | Computer Science | ShanghaiTech University
-
----
-
 I’m a Ph.D. student in the Computer Sciences Department at UW–Madison. 
 
 My research primarily focuses on database theory, with a strong interest in applying theoretical insights to practical system design. Beyond databases, I am also interested in traditional systems topics such as operating systems and distributed systems.
