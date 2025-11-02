@@ -1,4 +1,4 @@
-# 👋 Hello, I'm **Nemo Yu**
+# :squirrel: Hello, I'm **Nemo Yu**
 
 **Ph.D. Student** | Computer Science | University of Wisconsin-Madison    
 **Visiting International Student**  | Computer Science | University of Wisconsin-Madison   
