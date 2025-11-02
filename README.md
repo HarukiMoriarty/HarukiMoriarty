@@ -1,5 +1,4 @@
-# <img width="75" height="75" alt="image" src="https://github.com/user-attachments/assets/64b3f476-4706-402c-892a-8060bbeb08ca" />
- Hello, I'm **Nemo Yu**
+# <img width="75" height="75" alt="image" src="https://github.com/user-attachments/assets/64b3f476-4706-402c-892a-8060bbeb08ca" /> Hello, I'm **Nemo Yu**
 
 **Ph.D. Student** | Computer Science | University of Wisconsin-Madison    
 **Visiting International Student**  | Computer Science | University of Wisconsin-Madison   
